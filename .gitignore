@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Entorns ###
+*.txt
+*.bkp
+*.tmp
