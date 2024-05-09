@@ -3,6 +3,8 @@
 No se me ocurre nada
 
 ![image](https://github.com/elVakera/Control-de-versions/assets/147045307/d98dd128-e7b7-4138-8b29-f7beab17ae73)
+# Gomez, Alvaro paso por aqui para liarla
+![image](https://github.com/elVakera/Control-de-versions/assets/147045272/325fa25a-6f12-4d1e-a594-6c7b81f45540)
 # Main
 ~~~ java
 package supermercat;
